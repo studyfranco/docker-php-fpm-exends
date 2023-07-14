@@ -1,4 +1,4 @@
-FROM php:fpm
+FROM php:8-fpm
 
 LABEL maintainer="studyfranco@gmail.com"
 
